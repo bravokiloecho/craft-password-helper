@@ -23,7 +23,7 @@ class PasswordHelperPlugin extends BasePlugin
 	
 	public function getDocumentationUrl()
 	{
-	    return 'https://github.com/';
+	    return 'https://github.com/bravokiloecho/craft-password-helper';
 	}
 
 	function getDeveloper()
